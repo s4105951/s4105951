@@ -1,6 +1,6 @@
 ## Hey there ! 
 
-My name is Amber Taylor
+I'm Amber Taylor (she/her)
 
 <!--
 **s4105951/s4105951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
