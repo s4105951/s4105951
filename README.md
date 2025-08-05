@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there ! 
 
 My name is Amber Taylor
 Student number: 4105951
