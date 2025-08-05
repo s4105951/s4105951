@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Amber Taylor
+Student number: 4105951
+
 <!--
 **s4105951/s4105951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
